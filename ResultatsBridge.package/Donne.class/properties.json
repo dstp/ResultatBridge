@@ -1,0 +1,17 @@
+{
+	"commentStamp" : "dsp 7/12/2020 06:05",
+	"super" : "Object",
+	"category" : "ResultatsBridge-Code",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"fiche",
+		"resultats",
+		"numero",
+		"tournoi",
+		"equipes"
+	],
+	"name" : "Donne",
+	"type" : "normal"
+}
