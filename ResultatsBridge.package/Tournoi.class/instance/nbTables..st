@@ -1,3 +1,3 @@
-as yet unclassified
+initialization-data
 nbTables: anInteger 
 	nbTables := anInteger

@@ -1,4 +1,4 @@
-acccessing
+accessing
 fiche: anArray
 	"
 	score des NS uniquement

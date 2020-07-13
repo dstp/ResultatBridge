@@ -1,3 +1,3 @@
-as yet unclassified
+accessing
 donneNumero: anInteger
 	^ self donnes at: anInteger

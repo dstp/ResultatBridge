@@ -1,4 +1,4 @@
-as yet unclassified
+initialization-data
 nouvellesDonnes: anInteger
 	donnes := OrderedCollection new.
 	1 to: anInteger

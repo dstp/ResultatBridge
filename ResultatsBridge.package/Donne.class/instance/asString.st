@@ -1,5 +1,7 @@
-printing
-printOn: aStream
+converting
+asString
+	| aStream|
+	aStream := '' writeStream .
 	aStream
 		nextPutAll: 'Donne numéro : ';
 		nextPutAll: self numero asString;
@@ -9,4 +11,5 @@ printOn: aStream
 	1 to: self equipes size do: [ :i | 
 		aStream
 			nextPutAll: (self printResultatsTour: i);
-			cr ]
+			cr ].
+	^ aStream  contents

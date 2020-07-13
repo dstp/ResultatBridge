@@ -1,4 +1,4 @@
-as yet unclassified
+basic tests
 testTournoi
 	| t |
 	t := Tournoi new

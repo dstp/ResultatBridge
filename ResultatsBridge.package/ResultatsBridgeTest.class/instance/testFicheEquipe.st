@@ -1,4 +1,4 @@
-as yet unclassified
+basic tests
 testFicheEquipe
 	| t d |
 	t := Tournoi new

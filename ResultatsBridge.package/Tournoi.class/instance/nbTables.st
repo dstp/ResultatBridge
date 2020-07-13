@@ -1,3 +1,3 @@
-as yet unclassified
+accessing
 nbTables
-	^ nbTables ifNil: [ nbTables := 1 ]
+	^ nbTables 

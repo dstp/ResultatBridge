@@ -1,3 +1,3 @@
-acccessing
+accessing
 tournoi: aTournoi
 	tournoi := aTournoi

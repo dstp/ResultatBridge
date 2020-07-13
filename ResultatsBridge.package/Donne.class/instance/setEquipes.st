@@ -1,4 +1,4 @@
-as yet unclassified
+private 
 setEquipes
 	"
 	je retourne les equipes qui me jouent suivant les tours

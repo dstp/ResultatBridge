@@ -1,4 +1,4 @@
-private 
+topage
 setResultats
 	"
 	topage :	le 1er prend 100, le suivant 100 - 1*pas, le suivant 100 - 2*pas, ... le nieme 100 - (n-1)*pas. Avec pas = 100 / (nombre de résultats - 1).

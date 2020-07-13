@@ -1,4 +1,4 @@
-as yet unclassified
+basic tests
 testPrint
 	| t d |
 	t := Tournoi new

@@ -1,3 +1,3 @@
-acccessing
+accessing
 fiche
-	^ fiche 
+	^ fiche ifNil: [ fiche := Array new. ]

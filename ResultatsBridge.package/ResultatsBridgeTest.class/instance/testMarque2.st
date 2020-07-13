@@ -1,4 +1,4 @@
-as yet unclassified
+basic tests
 testMarque2
 	| d |
 	d := Donne new.
